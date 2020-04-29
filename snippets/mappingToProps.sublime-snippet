@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[const mapStateToProps = (state) => ({
+	${1}
+})
+
+const mapDispatchToProps = {
+	
+}
+]]></content>
+<tabTrigger>reduxmap</tabTrigger>
+<scope>source.js,source.ts</scope>
+<description>mappingToProps</description>
+</snippet>
