@@ -1,5 +1,6 @@
 import fs from 'fs';
 import snippets from './snippets.json';
+import snippets from './ts-snippets.json';
 
 /**
  * Various replacement patterns
