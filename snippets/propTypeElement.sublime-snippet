@@ -1,6 +1,0 @@
-<snippet>
-<content><![CDATA[PropTypes.element,]]></content>
-<tabTrigger>ptel</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>propTypeElement</description>
-</snippet>
