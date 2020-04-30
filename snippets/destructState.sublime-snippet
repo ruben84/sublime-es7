@@ -1,6 +1,0 @@
-<snippet>
-<content><![CDATA[const { $1 } = this.state]]></content>
-<tabTrigger>cs</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>destructState</description>
-</snippet>

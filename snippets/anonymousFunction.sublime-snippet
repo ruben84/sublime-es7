@@ -1,9 +1,0 @@
-<snippet>
-<content><![CDATA[(${1:params}) => {
-	${2}
-}
-]]></content>
-<tabTrigger>anfn</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>anonymousFunction</description>
-</snippet>

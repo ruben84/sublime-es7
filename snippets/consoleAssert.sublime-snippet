@@ -1,6 +1,0 @@
-<snippet>
-<content><![CDATA[console.assert(${1:expression}, ${2:object})]]></content>
-<tabTrigger>cas</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>consoleAssert</description>
-</snippet>
