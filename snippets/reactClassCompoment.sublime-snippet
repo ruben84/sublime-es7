@@ -1,5 +1,5 @@
 <snippet>
-<content><![CDATA[import React { Component } from 'react'
+<content><![CDATA[import React, { Component } from 'react'
 
 export default class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Component {
 	render() {

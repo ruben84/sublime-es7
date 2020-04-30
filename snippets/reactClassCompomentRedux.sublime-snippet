@@ -1,9 +1,9 @@
 <snippet>
-<content><![CDATA[import React from 'react'
+<content><![CDATA[import React, { Component } from 'react'
 import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 
-export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends React.Component {
+export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends Component {
 	static propTypes = {
 		${2:prop}: ${3:PropTypes}
 	}

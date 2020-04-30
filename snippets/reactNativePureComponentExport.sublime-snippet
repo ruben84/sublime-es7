@@ -1,8 +1,8 @@
 <snippet>
-<content><![CDATA[import React from 'react'
+<content><![CDATA[import React, { PureComponent } from 'react'
 import { Text, View } from 'react-native'
 
-export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends React.PureComponent {
+export class ${1:${TM_FILENAME/(.+)\..+|.*/$1/:name}} extends PureComponent {
 	render() {
 		return (
 			<View>
