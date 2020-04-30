@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[it('should $1', () => {
+	$0
+})
+]]></content>
+<tabTrigger>tit</tabTrigger>
+<scope>source.js,source.ts</scope>
+<description>itBlock</description>
+</snippet>

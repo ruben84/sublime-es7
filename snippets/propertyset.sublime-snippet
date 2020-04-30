@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[set ${1:propertyName}(${2:value}) {
+	${0}
+}
+]]></content>
+<tabTrigger>pse</tabTrigger>
+<scope>source.js,source.ts</scope>
+<description>propertySet</description>
+</snippet>
