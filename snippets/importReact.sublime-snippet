@@ -1,7 +1,0 @@
-<snippet>
-<content><![CDATA[import React from 'react'
-]]></content>
-<tabTrigger>imrpc</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>import React</description>
-</snippet>

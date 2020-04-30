@@ -1,7 +1,0 @@
-<snippet>
-<content><![CDATA[this.${1:refName}Ref = React.createRef()
-]]></content>
-<tabTrigger>cref</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>createRef</description>
-</snippet>

@@ -1,7 +1,0 @@
-<snippet>
-<content><![CDATA[const ref = React.createRef()
-]]></content>
-<tabTrigger>fref</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>forwardRef</description>
-</snippet>

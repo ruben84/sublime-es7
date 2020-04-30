@@ -1,9 +1,0 @@
-<snippet>
-<content><![CDATA[static propTypes = {
-$0
-}
-]]></content>
-<tabTrigger>ptypes</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>staticPropTpyes</description>
-</snippet>
