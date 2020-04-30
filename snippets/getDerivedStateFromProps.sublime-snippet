@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[static getDerivedStateFromProps(props, state) {
+	${1}
+}]]></content>
+<tabTrigger>gdsfp</tabTrigger>
+<scope>source.js,source.ts</scope>
+<description>getDerivedStateFromProps</description>
+</snippet>
