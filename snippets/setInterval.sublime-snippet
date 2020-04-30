@@ -1,9 +1,0 @@
-<snippet>
-<content><![CDATA[setInterval(() => {
-	${2}
-}, ${0:intervalInms})
-]]></content>
-<tabTrigger>sti</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>setInterval</description>
-</snippet>

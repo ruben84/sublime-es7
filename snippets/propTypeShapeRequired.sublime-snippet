@@ -1,8 +1,0 @@
-<snippet>
-<content><![CDATA[PropTypes.shape({
-	$0
-}).isRequired,]]></content>
-<tabTrigger>ptshr</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>propTypeShapeRequired</description>
-</snippet>

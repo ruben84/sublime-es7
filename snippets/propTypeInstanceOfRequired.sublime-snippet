@@ -1,6 +1,0 @@
-<snippet>
-<content><![CDATA[PropTypes.instanceOf($0).isRequired,]]></content>
-<tabTrigger>ptir</tabTrigger>
-<scope>source.js,source.ts</scope>
-<description>propTypeInstanceOfRequired</description>
-</snippet>
