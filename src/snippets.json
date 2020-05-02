@@ -211,7 +211,7 @@
       ""
     ]
   },
-  "import React, { PureComponent } & PureComponent": {
+  "import React, { PureComponent }": {
     "prefix": "imrpc",
     "body": ["import React, { PureComponent } from 'react'", ""]
   },
